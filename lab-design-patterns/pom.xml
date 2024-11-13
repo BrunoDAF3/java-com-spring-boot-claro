@@ -8,10 +8,10 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>estudando.springboot</groupId>
-	<artifactId>estudando-springboot</artifactId>
+	<groupId>lab.design.patterns</groupId>
+	<artifactId>lab-design-patterns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>estudando-springboot</name>
+	<name>lab-design-patterns</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -30,12 +30,6 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-
-		<dependency>
-      		<groupId>org.springframework.boot</groupId>
-      		<artifactId>spring-boot-starter-web</artifactId>
-    	</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
